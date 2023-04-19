@@ -22,7 +22,7 @@ def check_user(message):
         user_id = message.chat.id
     if user_id in sudo_users:
         return 'SUDO'
-    elif user_id == 1984763765:
+    elif user_id == 959184369:
         return 'DEV'
     else:
         text = "<b>Not a Authorized User</b>\nMade with Love by @conan7612"
