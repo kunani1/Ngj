@@ -2,10 +2,10 @@ from pyrogram import Client, filters
 from utils import check_user, multi_rec, getChannels
 
 app = Client(
-    "Deepika_Love_Bot",
-    bot_token = "6144406425:AAGpo7qViUrsJsChanO0105XTO5wmu_YodM",
-    api_id = 17038143,
-    api_hash = "c1705f4cf711329ea025772dfd7057e0"
+    "Myone123nbot",
+    bot_token = "6149915260:AAH3j8goDum3n98qS2Me1TPLQ5aozR3Tox0",
+    api_id = 2929027,
+    api_hash = "2beecc3ee357e6e3f2b2e783d4159f9f"
 )
 
 
