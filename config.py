@@ -1,8 +1,8 @@
-sudo_users = [829259422,1984763765,2009124246,2027883161,5338416066]
+sudo_users = [959184369]
 
 iptv_link = "https://gist.githubusercontent.com/nikhil123nikhil/74fd13528fdc6d47d4855b50ea672ef1/raw/1f5f86fae2ebfac8cf38e0604f56acf3f30164ce/iptv.json"
 
-GROUP_TAG = "Nikhil"
+GROUP_TAG = "SAI"
 
 
 CHANNELS_TEXT = """<b>Here are the List of Channels : </b>
