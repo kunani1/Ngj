@@ -1,6 +1,6 @@
 sudo_users = [959184369]
 
-iptv_link = "https://gist.githubusercontent.com/adityaraj2003/c8052a548e3bce3f2ef69f8ac5a593f4/raw/050ccc515b1f6d9d00502cfe132eecfd1a589168/iptv.json"
+iptv_link = "https://gist.githubusercontent.com/KSBOTSOFFICAL/0ac04b5da46b9b67edb0c592aa019e21/raw/47d71f3440afffcd3428256d16971930e718639e/Rfeggs.json"
 
 GROUP_TAG = "SAI"
 
