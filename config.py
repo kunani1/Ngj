@@ -1,6 +1,6 @@
-sudo_users = [959184369]
+sudo_users = [959184369, 2036297424, 1640783367]
 
-iptv_link = "https://gist.githubusercontent.com/KSBOTSOFFICAL/0ac04b5da46b9b67edb0c592aa019e21/raw/52e9aeffec004e85ed1d13b3b05864926a05a124/fggs.json"
+iptv_link = "https://gist.githubusercontent.com/KSBOTSOFFICAL/0ac04b5da46b9b67edb0c592aa019e21/raw/1387196e1ae74d9502124fef9f085d714389dd04/ggs.json"
 
 GROUP_TAG = "SAI"
 
