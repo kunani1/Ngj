@@ -1,4 +1,4 @@
-sudo_users = [959184369, 2036297424, 1640783367]
+sudo_users = [959184369, 2036297424, 1640783367, 1900583882]
 
 iptv_link = "https://gist.githubusercontent.com/KSBOTSOFFICAL/0ac04b5da46b9b67edb0c592aa019e21/raw/8f66fd4a0466900a9155beab42f16d3344a17193/Gjggbs.json"
 
