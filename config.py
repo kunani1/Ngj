@@ -1,6 +1,6 @@
 sudo_users = [959184369]
 
-iptv_link = "https://gist.githubusercontent.com/KSBOTSOFFICAL/ca5c0028c9d3beb6b48f4a524fc9c6e3/raw/a3145cc31ccc493d7c130436e6e6f36446b4aac9/Bvshbvr.json"
+iptv_link = "https://gist.githubusercontent.com/KSBOTSOFFICAL/5f46c704f6d854bb17e663d782d07853/raw/4be8f4053a5a5a218141537e2d8f8133fc142ace/ylbbinks.json"
 
 GROUP_TAG = "Epic"
 
